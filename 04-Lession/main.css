@@ -1,0 +1,23 @@
+body{
+    background-color: #333;
+    color: aqua;
+                }
+                h1{
+                    font-size: 45px;
+                }
+                p{
+                    color: aquamarine;
+                    font-size: larger;
+                }
+
+a{
+    color: lightgray;
+}
+
+/* a:visited{
+    color: aliceblue;
+} */
+
+a:hover, a:active{
+    color: #eee;
+}
